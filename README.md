@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sreehari B M 👋
 
-<!--
-**sreeharibm/sreeharibm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-year CSE student | Aspiring Cloud Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a first-semester B.Tech CSE student at Lovely Professional
+University, specialising in Cloud Computing and Generative AI.
+
+I'm starting my programming journey and working on improving
+my Python and problem-solving skills. My long-term goal is to
+become a Cloud Engineer at Amazon Web Services (AWS).
+
+## Currently Learning
+
+- Python fundamentals
+- Coding and problem solving
+- Git and GitHub
+- Cloud computing basics
+
+## My Learning Goals
+
+- Write Python programs independently
+- Learn Linux and networking fundamentals
+- Explore AWS services through guided practice
+- Build and document small projects
+- Prepare for the AWS Cloud Practitioner certification
+
+## Projects
+
+I'm currently building my foundation.
+I'll add my projects here as I complete them.
+
+
